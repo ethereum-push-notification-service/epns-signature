@@ -1,5 +1,5 @@
 # Assets
-.psd
+*.psd
 
 # General
 .DS_Store
